@@ -1,2 +1,8 @@
 # mycodes
-Here i will past many software related programs in help to better manage my programs 
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Hello World"<<endl;
